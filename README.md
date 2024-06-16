@@ -39,12 +39,12 @@ Requisito 03: Geração de relatório HTML com formato alternativo. Implementado
 ![alt text](./assets/images/output.png)
 
 ## 4. Execução da aplicação:
-npm install
-node index.js <filename> <format>, <outputFilename>
+1- npm install
+2- node index.js <filename> <format>, <outputFilename>
 
-node index.js cidades-2.json alt-html relatorio-alt.html
-node index.js cidades-2.json html relatorio.html
-node index.js cidades-2.json txt relatorio.txt
+- node index.js cidades-2.json alt-html relatorio-alt.html
+- node index.js cidades-2.json html relatorio.html
+- node index.js cidades-2.json txt relatorio.txt
 
 ## Discente
 <div align="center">
